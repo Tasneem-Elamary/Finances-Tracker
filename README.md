@@ -9,7 +9,7 @@ The **Finances Tracker** is a full-stack application designed to manage personal
 
 The project includes APIs for managing budgets, transactions, and categories.
 
----
+
 
 ## Features
 
@@ -18,7 +18,7 @@ The project includes APIs for managing budgets, transactions, and categories.
 - Visualize budget usage and identify overspending.
 -  user-friendly interface.
 
----
+
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ To run this project, ensure you have the following installed:
 - **PostgreSQL** database
 - **Git** (optional, for cloning the repository)
 
----
+
 
 ## Configuration
 
